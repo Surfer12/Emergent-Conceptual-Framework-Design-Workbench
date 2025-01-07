@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "anthropic-sdk-java",
+			"path": "../../anthropic-sdk-java"
+		},
+		{
+			"name": "anthropic-sdk-go",
+			"path": "../../anthropic-sdk-go"
+		},
+		{
+			"name": "prompt-eng-interactive-tutorial",
+			"path": "../../prompt-eng-interactive-tutorial"
+		},
+		{
+			"name": "anthropic-sdk-typescript",
+			"path": "../../anthropic-sdk-typescript"
+		},
+		{
+			"name": "Emergent Conceptual Framework Design Workbench",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
